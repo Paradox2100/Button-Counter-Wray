@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Swipe_test</string>
+    <string name="display">0</string>
+    <string name="info">Swipe left for minus and right for plus</string>
+</resources>
